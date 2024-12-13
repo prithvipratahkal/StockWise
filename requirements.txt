@@ -1,0 +1,9 @@
+django
+pg8000
+psycopg2-binary
+requests
+pandas
+apscheduler
+djangorestframework
+sklearn
+matplotlib
